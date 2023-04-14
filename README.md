@@ -1,5 +1,5 @@
 # mapty
-This is an educational project created by me as part of Jonas Schmedtmann's "The Complete JavaScript Course 2023: From Zero to Expert!"
+This is an educational project created by Jonas Schmedtmann's "The Complete JavaScript Course 2023: From Zero to Expert!"
 
 In this project, the Leaflet library was used and OOP principles were applied.
 
